@@ -10,7 +10,7 @@ The system follows a Lakehouse architecture pattern leveraging cloud object stor
 
 **Text-Based Architecture View:**
 
-```mermaid
+```
 [AWS S3: Landing Zone] 
        | (Ingest Raw CSVs)
        v
